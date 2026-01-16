@@ -1,4 +1,4 @@
-Classification sur MNIST avec seulement 100 images annotées. 
+# Classification sur MNIST avec seulement 100 images annotées. 
 
 Comparaison de deux méthodes :
 
